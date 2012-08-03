@@ -14,4 +14,4 @@ these have been simply selected out of a choice and added to the list for the
 enjoyment of the users. In no way do you have the right to re-release what is not yours
                 
 
-JSquashed Pack 2.0 (2012)
+- JSquashed Pack 2.0 (2012)
